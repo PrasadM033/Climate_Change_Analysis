@@ -1,0 +1,1 @@
+This repo contains information on analysis of air quality across indian cities as part of mini project on data science subject.
